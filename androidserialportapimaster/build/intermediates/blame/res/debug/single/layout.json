@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\code\\YuKeyRing\\androidserialportapimaster\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\code\\YuKeyRing\\androidserialportapimaster\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\code\\YuKeyRing\\androidserialportapimaster\\build\\intermediates\\res\\merged\\debug\\layout\\console.xml",
+        "source": "D:\\code\\YuKeyRing\\androidserialportapimaster\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "D:\\code\\YuKeyRing\\androidserialportapimaster\\build\\intermediates\\res\\merged\\debug\\layout\\sending01010101.xml",
+        "source": "D:\\code\\YuKeyRing\\androidserialportapimaster\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "D:\\code\\YuKeyRing\\androidserialportapimaster\\build\\intermediates\\res\\merged\\debug\\layout\\loopback.xml",
+        "source": "D:\\code\\YuKeyRing\\androidserialportapimaster\\src\\main\\res\\layout\\loopback.xml"
+    }
+]

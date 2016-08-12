@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YuKeyRing</string>
+    <string name="create_key">Create Key</string>
+    <string name="verify_key">Verify Key</string>
+    <string name="action_remove_key">Remove Key</string>
+    <string name="action_reset_verify">Reset Verfification</string>
+</resources>
